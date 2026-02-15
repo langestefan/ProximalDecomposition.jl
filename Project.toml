@@ -1,0 +1,10 @@
+name = "ProximalDecomposition"
+uuid = "3b3b993c-0402-55cb-ad2c-447021e9e969"
+authors = ["Stefan de Lange <langestefan@msn.com>"]
+version = "0.1.0"
+
+[workspace]
+projects = ["test", "docs"]
+
+[compat]
+julia = "1.10"

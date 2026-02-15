@@ -1,0 +1,42 @@
+# Changes here will be overwritten by Copier
+AddAllcontributors: false
+AddCitationCFF: true
+AddCodeOfConduct: true
+AddContributionDocs: true
+AddCopierCI: true
+AddDocs: true
+AddDocsCI: true
+AddFormatterAndLinterConfigFiles: true
+AddGitHubPRTemplate: true
+AddGitHubTemplates: true
+AddLintCI: true
+AddLychee: true
+AddMacToCI: true
+AddPrecommit: true
+AddPrecommitUpdateCI: true
+AddTagBotCI: false
+AddTestCI: true
+AddWinToCI: true
+Authors: Stefan de Lange <langestefan@msn.com>
+CheckExplicitImports: true
+CodeOfConductContact: langestefan@msn.com
+ConfigIndentation: 2
+ExplicitImportsChecklist: exclude_all_qualified_accesses_are_public
+GitHubActionVersionAutoUpdate: dependabot
+JuliaCompatAutoUpdate: dependabot
+JuliaIndentation: 4
+JuliaMinCIVersion: lts
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Stefan de Lange
+MarkdownIndentation: 2
+PackageName: ProximalDecomposition
+PackageOwner: langestefan
+PackageUUID: 3b3b993c-0402-55cb-ad2c-447021e9e969
+RunJuliaNightlyOnCI: false
+StrategyConfirmIncluded: true
+StrategyLevel: 3
+StrategyReviewExcluded: true
+TestingStrategy: testitem_basic
+UseCirrusCI: true
+_src_path: /home/langestefan/.julia/packages/BestieTemplate/GuTb8
